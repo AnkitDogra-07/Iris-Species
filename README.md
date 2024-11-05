@@ -17,7 +17,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AnkitDogra-07/iris-flower-classifier.git
+   git clone https://github.com/AnkitDogra-07/Iris-Species.git
 2. **Navigate to the project directory:**:
    ```bash
    cd iris-flower-classifier
