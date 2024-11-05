@@ -63,3 +63,4 @@ This application uses a Support Vector Machine (SVM) classifier with a linear ke
     Scikit-learn: Machine learning library for model training and evaluation
     Numpy and Pandas: Data manipulation and analysis
     Matplotlib and Seaborn: Data visualization libraries
+
